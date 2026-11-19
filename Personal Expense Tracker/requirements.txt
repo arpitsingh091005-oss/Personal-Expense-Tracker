@@ -1,0 +1,15 @@
+# Personal Expense Tracker - MCA College Minor Project
+# Strict Requirement: Built entirely using Python 3 and Core Standard Libraries.
+# No external third-party dependencies are required (e.g., no Flask, Django, Pandas, SQLAlchemy).
+#
+# Minimum Recommended Python Version: Python 3.8+
+#
+# Python Standard Library Modules Used:
+# - sqlite3      : Embedded relational database engine
+# - hashlib      : Cryptographic password hashing (PBKDF2 HMAC SHA-256)
+# - os / sys     : Filesystem paths and system utilities
+# - csv          : Exporting financial statements and reports
+# - datetime     : Date handling, range filters, and timestamps
+# - re           : Regular expression validation for emails and inputs
+# - decimal      : High-precision currency parsing to integer paise
+# - unittest     : Automated test suite

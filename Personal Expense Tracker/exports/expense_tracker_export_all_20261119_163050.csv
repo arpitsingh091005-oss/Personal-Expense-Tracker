@@ -1,0 +1,14 @@
+Transaction ID,Date,Type,Category,Amount (INR),Description,Created At
+13,2026-11-19,EXPENSE,Gym & Fitness,2500.00,Annual Gym Membership Installment,2026-11-19 10:54:54
+6,2026-11-19,EXPENSE,Food,6450.00,Monthly Supermarket Groceries,2026-11-19 10:54:54
+5,2026-11-19,EXPENSE,Bills,18500.00,Apartment Monthly Rent,2026-11-19 10:54:54
+1,2026-11-19,INCOME,Salary,75000.00,Monthly Software Engineering Salary,2026-11-19 10:54:54
+8,2026-11-18,EXPENSE,Bills,2400.00,Electricity & Water Utility Bill,2026-11-19 10:54:54
+7,2026-11-18,EXPENSE,Travel,3200.00,Monthly Metro Card & Fuel,2026-11-19 10:54:54
+2,2026-11-18,INCOME,Freelancing,22500.00,Mobile App UI Design Project,2026-11-19 10:54:54
+10,2026-11-17,EXPENSE,Shopping,4850.50,Formal Office Attire,2026-11-19 10:54:54
+9,2026-11-17,EXPENSE,Entertainment,1499.00,Netflix and Spotify Subscriptions,2026-11-19 10:54:54
+4,2026-11-17,INCOME,Other,3000.00,Cashback and Birthday Gift,2026-11-19 10:54:54
+12,2026-11-12,EXPENSE,Education,3500.00,Cloud Certification Exam Fee,2026-11-19 10:54:54
+11,2026-11-12,EXPENSE,Medical,1800.00,Dental Consultation and Medicines,2026-11-19 10:54:54
+3,2026-11-12,INCOME,Investment,4200.50,Mutual Fund Dividend Payout,2026-11-19 10:54:54
